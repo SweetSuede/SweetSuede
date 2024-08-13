@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @SweetSuede
-- 👀 I’m interested in automated testing
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in automated testing and creating seriously good-looking web-applications
+- 🌱 C#, JavaScript, Html, Css, React, Node.js
 
 <!---
 SweetSuede/SweetSuede is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
